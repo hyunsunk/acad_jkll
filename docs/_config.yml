@@ -9,9 +9,16 @@ footer_text: >
   Powered by <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
   Photos from <a href="https://unsplash.com" target="_blank">Unsplash</a>.
-url:  # the base hostname & protocol for your site
+url:  "https://hyunsunk.github.io/acad_jkll" # the base hostname & protocol for your site
 baseurl: /al-folio # the subpath of your site, e.g. /blog/
 last_updated: # leave blank if you don't want to display last updated
+
+
+
+
+
+
+
 
 # -----------------------------------------------------------------------------
 # Social integration
@@ -120,5 +127,3 @@ anchorjs_version: "3.2.2"
 
 remote_theme : alshedivat/al-folio
 
-url                      : "https://hyunsunk.github.io/acad_jkll" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
